@@ -1,7 +1,7 @@
 # auto_landing_page
 
 1. Write down the goal of the landing page, including two paragraphs that explain what the product does and how it works.
-2. Insert images into chatgpt while using `You are a professional web designer helping to design a landing page for my website.` as system prompt and the following prompt, replacing "description" with the description from step one:
+2. Insert images from `example` folder into chatgpt while using `You are a professional web designer helping to design a landing page for my website.` as system prompt and the following prompt, replacing "description" with the description from step one:
 
 
 ```prompt
